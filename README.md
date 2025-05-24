@@ -2,6 +2,7 @@
 
 Adds a price to every purchasable unlocked by DLC: weapons, sights, binoculars and callers.
 Made for those who don't want to feel like DLC is 'pay to win', given that the weapons in it are free in-game.
+Get it at the [Nexus Mods page](https://www.nexusmods.com/thehuntercallofthewild/mods/597).
 
 This mod is based on other existing 'No Free DLC stuff' mods, with small adjustments and additions to include the latest DLCs.
 
