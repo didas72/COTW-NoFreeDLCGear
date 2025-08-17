@@ -21,6 +21,6 @@ Install:
 Source:
 The 'source code' can be found in the GitHub repo. It isn't really source code, it is just the JSON that defines the mod, which can be loaded by Mod Builder to 'build' the mod.
 
-Update log:
-v1.0.0a - Updated to ModBuilder 2.2.8 (no changes to content) 17Ago25
+# Update log:
+v1.0.0a - Updated to ModBuilder 2.2.8 (no changes to content) 17Ago25  
 v1.0.0 - First release (Rapid Hunt Rifle Pack) 27Apr25
