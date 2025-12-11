@@ -7,7 +7,7 @@ Get it at the [Nexus Mods page](https://www.nexusmods.com/thehuntercallofthewild
 This mod is based on other existing 'No Free DLC stuff' mods, with small adjustments and additions to include the latest DLCs.
 
 Credits:
-This mod was made with 'Mod Builder - Revived' 2.2.8, which you can find here. Credit to WithoutWeakness for the awesome, easy to use tool.
+This mod was made with 'Mod Builder - Revived' 2.2.8, which you can find [here](https://www.nexusmods.com/thehuntercallofthewild/mods/410). Credit to WithoutWeakness for the awesome, easy to use tool.
 
 Install:
 1. Download the latest zip
