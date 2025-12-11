@@ -7,7 +7,7 @@ Get it at the [Nexus Mods page](https://www.nexusmods.com/thehuntercallofthewild
 This mod is based on other existing 'No Free DLC stuff' mods, with small adjustments and additions to include the latest DLCs.
 
 Credits:
-This mod was made with 'Mod Builder - Revived' 2.2.8, which you can find [here](https://www.nexusmods.com/thehuntercallofthewild/mods/410). Credit to WithoutWeakness for the awesome, easy to use tool.
+This mod was made with 'Mod Builder - Revived' 2.4.1, which you can find [here](https://www.nexusmods.com/thehuntercallofthewild/mods/410). Credit to WithoutWeakness for the awesome, easy to use tool.
 
 Install:
 1. Download the latest zip
@@ -22,5 +22,6 @@ Source:
 The 'source code' can be found in the GitHub repo. It isn't really source code, it is just the JSON that defines the mod, which can be loaded by Mod Builder to 'build' the mod.
 
 # Update log:
+v1.1.0 - Added Pump, Flip and Fire pack support, updated to ModBuilder v2.4.1 (now up to date with Scotland Hunting Reserve update) 11Dec25
 v1.0.0a - Updated to ModBuilder 2.2.8 (no changes to content) 17Ago25  
 v1.0.0 - First release (Rapid Hunt Rifle Pack) 27Apr25
