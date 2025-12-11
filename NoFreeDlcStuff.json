@@ -801,6 +801,33 @@
       "price": 8000,
       "quantity": 0,
       "weight": -1
+    },
+    "modify_store_equipment_weapon_la_rifle_22m_01": {
+      "type": "weapon",
+      "name": "equipment_weapon_la_rifle_22m_01",
+      "display_name": "Rifle: Anantha Action .22 MAG",
+      "file": "settings/hp_settings/equipment_data.bin",
+      "price": 12000,
+      "quantity": 0,
+      "weight": 3.0
+    },
+    "modify_store_equipment_weapon_pa_rifle_257_01": {
+      "type": "weapon",
+      "name": "equipment_weapon_pa_rifle_257_01",
+      "display_name": "Rifle: Frost .257",
+      "file": "settings/hp_settings/equipment_data.bin",
+      "price": 9000,
+      "quantity": 0,
+      "weight": 3.0
+    },
+    "modify_store_equipment_weapon_ss_shotgun_410_01": {
+      "type": "weapon",
+      "name": "equipment_weapon_ss_shotgun_410_01",
+      "display_name": "Shotgun: Giddings SSC .410 Coyote",
+      "file": "settings/hp_settings/equipment_data.bin",
+      "price": 4000,
+      "quantity": 0,
+      "weight": 2.0
     }
   }
 }
