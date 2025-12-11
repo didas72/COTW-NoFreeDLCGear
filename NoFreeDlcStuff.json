@@ -1,5 +1,5 @@
 {
-  "version": "2.2.8",
+  "version": "2.4.1",
   "mod_options": {
     "modify_store_equipment_weapon_sa_rifle_ar15_300_01": {
       "type": "weapon",
